@@ -1,8 +1,8 @@
-package javaapplication42;
+package finalactivity;
 
 import java.util.Scanner;
 
-public class JavaApplication42 {
+public class FinalActivity {
 
     public static void main(String[] args) {
             display();
